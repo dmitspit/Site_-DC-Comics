@@ -1,2 +1,1 @@
-#Сайт на bootstrap 4
-#Вселенная DC Comics
+# The site is built with Bootstrap 4
